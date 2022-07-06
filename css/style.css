@@ -214,7 +214,7 @@ header{
        width: 40vw;
        left: auto;
        top: 15%;
-       background: url(images/mainimg.jpg) center center / cover no-repeat;
+       background: url(./images/mainimg.jpg) center center / cover no-repeat;
     }
    
     
